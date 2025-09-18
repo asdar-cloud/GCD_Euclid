@@ -8,6 +8,7 @@ git clone https://github.com/asdar-cloud/GCD_Euclid
 After instalation
 ```bash
 cd GCD_Euclid
-./GCD
+./GCD # for Linux operating system
+GCD.exe # for Windows
 ```
 Next, all you need to do is enter 2 numbers whose GCD you want to find.
